@@ -20,5 +20,5 @@ This project showcases a Tableau dashboard analyzing the relationship between ga
 ![Dashboard Preview](Screenshots/dashboard.png)
 
 ## 👤 Author
-Mani  
+Manikandan.D 
 Aspiring Data Analyst | Tableau & Power BI
